@@ -1,0 +1,6 @@
+os
+streamlit
+pandas
+pandasai
+numpy == 1.26.4
+dotenv
